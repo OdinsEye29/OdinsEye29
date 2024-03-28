@@ -1,6 +1,6 @@
 # Hi👋, I'm Vishnu Suresh
 
-**`OdinsEye| Student | Verified Developer | Designer | Content Creato.`** 
+**`OdinsEye| Student |Developer | Designer | Content Creato.`** 
 
 ### When life throws bugs at me, I don't squish them—I turn them into features! Who knew being a software engineering student could be this much fun? 
 &nbsp;
