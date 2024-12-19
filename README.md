@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif)
 <h1 align="center">Hi 👋, I'm Vishnu Suresh</h1>
 <h3 align="center">A passionate Software Engineering Student from India When life throws bugs at me, I don't squish them—I turn them into features! Who knew being a software engineering student could be this much fun?</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odinseye29&label=Profile%20views&color=0e75b6&style=flat" alt="odinseye29" /> </p>
 
